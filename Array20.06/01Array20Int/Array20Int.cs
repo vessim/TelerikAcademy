@@ -6,8 +6,8 @@
     {
         static void Main()
         {
-            int[] arr = new int[20];
-            for (int n = 0; n < 20; n++)
+            int[] arr = new int[25];
+            for (int n = 0; n < 25; n++)
             {
                 arr[n] = n * 5;
                 Console.WriteLine(arr[n]);
