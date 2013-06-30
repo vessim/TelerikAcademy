@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Array20Int", "01Array20Int\01Array20Int.csproj", "{C29F04B2-E18A-4362-A511-932E19226575}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02ArraysComparing", "02ArraysComparing\02ArraysComparing.csproj", "{65029A79-092B-45FA-A4D7-246A6CA7BACD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03CharArraysCompare", "03CharArraysCompare\03CharArraysCompare.csproj", "{B99A23E9-2696-46B3-9985-21CFC0CF3C49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04SequenceEqualElements", "04SequenceEqualElements\04SequenceEqualElements.csproj", "{C68DF679-3FFD-4C1C-A806-E4620D01EDA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05MaxIncreasingSequence", "05MaxIncreasingSequence\05MaxIncreasingSequence.csproj", "{15E10E8E-7D40-4BEE-AFB0-B35427A26EDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06MaxSumKElements", "06MaxSumKElements\06MaxSumKElements.csproj", "{CCD82B92-1249-4361-93F6-4E8F67BE2A5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07SelectionSort", "07SelectionSort\07SelectionSort.csproj", "{BC848389-3C06-472E-9552-938CE70362C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08MaximalSumSequence", "08MaximalSumSequence\08MaximalSumSequence.csproj", "{0439CA2D-9BEF-4726-A5AE-22413EF1A16F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C29F04B2-E18A-4362-A511-932E19226575}.Debug|x86.ActiveCfg = Debug|x86
+		{C29F04B2-E18A-4362-A511-932E19226575}.Debug|x86.Build.0 = Debug|x86
+		{C29F04B2-E18A-4362-A511-932E19226575}.Release|x86.ActiveCfg = Release|x86
+		{C29F04B2-E18A-4362-A511-932E19226575}.Release|x86.Build.0 = Release|x86
+		{65029A79-092B-45FA-A4D7-246A6CA7BACD}.Debug|x86.ActiveCfg = Debug|x86
+		{65029A79-092B-45FA-A4D7-246A6CA7BACD}.Debug|x86.Build.0 = Debug|x86
+		{65029A79-092B-45FA-A4D7-246A6CA7BACD}.Release|x86.ActiveCfg = Release|x86
+		{65029A79-092B-45FA-A4D7-246A6CA7BACD}.Release|x86.Build.0 = Release|x86
+		{B99A23E9-2696-46B3-9985-21CFC0CF3C49}.Debug|x86.ActiveCfg = Debug|x86
+		{B99A23E9-2696-46B3-9985-21CFC0CF3C49}.Debug|x86.Build.0 = Debug|x86
+		{B99A23E9-2696-46B3-9985-21CFC0CF3C49}.Release|x86.ActiveCfg = Release|x86
+		{B99A23E9-2696-46B3-9985-21CFC0CF3C49}.Release|x86.Build.0 = Release|x86
+		{C68DF679-3FFD-4C1C-A806-E4620D01EDA1}.Debug|x86.ActiveCfg = Debug|x86
+		{C68DF679-3FFD-4C1C-A806-E4620D01EDA1}.Debug|x86.Build.0 = Debug|x86
+		{C68DF679-3FFD-4C1C-A806-E4620D01EDA1}.Release|x86.ActiveCfg = Release|x86
+		{C68DF679-3FFD-4C1C-A806-E4620D01EDA1}.Release|x86.Build.0 = Release|x86
+		{15E10E8E-7D40-4BEE-AFB0-B35427A26EDC}.Debug|x86.ActiveCfg = Debug|x86
+		{15E10E8E-7D40-4BEE-AFB0-B35427A26EDC}.Debug|x86.Build.0 = Debug|x86
+		{15E10E8E-7D40-4BEE-AFB0-B35427A26EDC}.Release|x86.ActiveCfg = Release|x86
+		{15E10E8E-7D40-4BEE-AFB0-B35427A26EDC}.Release|x86.Build.0 = Release|x86
+		{CCD82B92-1249-4361-93F6-4E8F67BE2A5F}.Debug|x86.ActiveCfg = Debug|x86
+		{CCD82B92-1249-4361-93F6-4E8F67BE2A5F}.Debug|x86.Build.0 = Debug|x86
+		{CCD82B92-1249-4361-93F6-4E8F67BE2A5F}.Release|x86.ActiveCfg = Release|x86
+		{CCD82B92-1249-4361-93F6-4E8F67BE2A5F}.Release|x86.Build.0 = Release|x86
+		{BC848389-3C06-472E-9552-938CE70362C8}.Debug|x86.ActiveCfg = Debug|x86
+		{BC848389-3C06-472E-9552-938CE70362C8}.Debug|x86.Build.0 = Debug|x86
+		{BC848389-3C06-472E-9552-938CE70362C8}.Release|x86.ActiveCfg = Release|x86
+		{BC848389-3C06-472E-9552-938CE70362C8}.Release|x86.Build.0 = Release|x86
+		{0439CA2D-9BEF-4726-A5AE-22413EF1A16F}.Debug|x86.ActiveCfg = Debug|x86
+		{0439CA2D-9BEF-4726-A5AE-22413EF1A16F}.Debug|x86.Build.0 = Debug|x86
+		{0439CA2D-9BEF-4726-A5AE-22413EF1A16F}.Release|x86.ActiveCfg = Release|x86
+		{0439CA2D-9BEF-4726-A5AE-22413EF1A16F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\05MaxIncreasingSequence\bin\Release\05MaxIncreasingSequence.exe
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\05MaxIncreasingSequence\bin\Release\05MaxIncreasingSequence.pdb
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\05MaxIncreasingSequence\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\05MaxIncreasingSequence\obj\x86\Release\05MaxIncreasingSequence.exe
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\05MaxIncreasingSequence\obj\x86\Release\05MaxIncreasingSequence.pdb

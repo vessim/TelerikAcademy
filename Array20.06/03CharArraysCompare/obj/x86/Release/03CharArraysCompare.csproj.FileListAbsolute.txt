@@ -1,0 +1,5 @@
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\03CharArraysCompare\bin\Release\03CharArraysCompare.exe
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\03CharArraysCompare\bin\Release\03CharArraysCompare.pdb
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\03CharArraysCompare\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\03CharArraysCompare\obj\x86\Release\03CharArraysCompare.exe
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\03CharArraysCompare\obj\x86\Release\03CharArraysCompare.pdb

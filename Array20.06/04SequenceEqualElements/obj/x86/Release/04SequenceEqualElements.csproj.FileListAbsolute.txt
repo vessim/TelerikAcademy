@@ -1,0 +1,5 @@
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\04SequenceEqualElements\bin\Release\04SequenceEqualElements.exe
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\04SequenceEqualElements\bin\Release\04SequenceEqualElements.pdb
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\04SequenceEqualElements\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\04SequenceEqualElements\obj\x86\Release\04SequenceEqualElements.exe
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\04SequenceEqualElements\obj\x86\Release\04SequenceEqualElements.pdb

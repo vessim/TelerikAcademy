@@ -1,0 +1,5 @@
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\06MaxSumKElements\bin\Release\06MaxSumKElements.exe
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\06MaxSumKElements\bin\Release\06MaxSumKElements.pdb
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\06MaxSumKElements\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\06MaxSumKElements\obj\x86\Release\06MaxSumKElements.exe
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\06MaxSumKElements\obj\x86\Release\06MaxSumKElements.pdb

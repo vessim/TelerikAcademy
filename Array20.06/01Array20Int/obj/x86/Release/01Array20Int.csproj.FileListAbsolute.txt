@@ -1,0 +1,10 @@
+C:\Users\Vessela\AppData\Local\Temporary Projects\Array26.06\bin\Release\Array26.06.exe
+C:\Users\Vessela\AppData\Local\Temporary Projects\Array26.06\bin\Release\Array26.06.pdb
+C:\Users\Vessela\AppData\Local\Temporary Projects\Array26.06\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vessela\AppData\Local\Temporary Projects\Array26.06\obj\x86\Release\Array26.06.exe
+C:\Users\Vessela\AppData\Local\Temporary Projects\Array26.06\obj\x86\Release\Array26.06.pdb
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\01Array20Int\bin\Release\01Array20Int.exe
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\01Array20Int\bin\Release\01Array20Int.pdb
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\01Array20Int\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\01Array20Int\obj\x86\Release\01Array20Int.exe
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\01Array20Int\obj\x86\Release\01Array20Int.pdb

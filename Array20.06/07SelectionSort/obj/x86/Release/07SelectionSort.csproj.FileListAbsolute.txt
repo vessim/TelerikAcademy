@@ -1,0 +1,5 @@
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\07SelectionSort\bin\Release\07SelectionSort.exe
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\07SelectionSort\bin\Release\07SelectionSort.pdb
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\07SelectionSort\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\07SelectionSort\obj\x86\Release\07SelectionSort.exe
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\07SelectionSort\obj\x86\Release\07SelectionSort.pdb
