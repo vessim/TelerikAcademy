@@ -1,0 +1,5 @@
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\08MaximalSumSequence\bin\Debug\08MaximalSumSequence.exe
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\08MaximalSumSequence\bin\Debug\08MaximalSumSequence.pdb
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\08MaximalSumSequence\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\08MaximalSumSequence\obj\x86\Debug\08MaximalSumSequence.exe
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\08MaximalSumSequence\obj\x86\Debug\08MaximalSumSequence.pdb

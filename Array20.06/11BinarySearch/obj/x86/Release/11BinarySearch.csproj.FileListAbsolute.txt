@@ -1,0 +1,5 @@
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\11BinarySearch\bin\Release\11BinarySearch.exe
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\11BinarySearch\bin\Release\11BinarySearch.pdb
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\11BinarySearch\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\11BinarySearch\obj\x86\Release\11BinarySearch.exe
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\11BinarySearch\obj\x86\Release\11BinarySearch.pdb

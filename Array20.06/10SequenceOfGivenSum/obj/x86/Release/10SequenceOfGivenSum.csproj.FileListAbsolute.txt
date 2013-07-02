@@ -1,0 +1,5 @@
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\10SequenceOfGivenSum\bin\Release\10SequenceOfGivenSum.exe
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\10SequenceOfGivenSum\bin\Release\10SequenceOfGivenSum.pdb
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\10SequenceOfGivenSum\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\10SequenceOfGivenSum\obj\x86\Release\10SequenceOfGivenSum.exe
+C:\Users\Vessela\documents\visual studio 2010\Projects\Array20.06\10SequenceOfGivenSum\obj\x86\Release\10SequenceOfGivenSum.pdb
